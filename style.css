@@ -1,0 +1,97 @@
+*{
+    color: aliceblue;
+}
+.card{
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255,87,178);
+background: linear-gradient(90deg, rgba(255,87,178,1) 0%, rgba(255,48,208,1) 35%, rgba(255,252,0,1) 100%);
+height: 500px;
+}
+.h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    border-radius: 30px;
+    color: black;
+}
+.card-2{
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(255,87,178,1) 13%, rgba(200,62,113,1) 45%, rgba(79,67,255,1) 81%);
+}
+h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    border-radius: 30px;
+    color: black;
+
+}
+.card-3{
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);  
+}
+h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    border-radius: 30px;
+    color: black;
+    width: 150px;
+    border-color: white;
+
+    
+}
+.card-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
